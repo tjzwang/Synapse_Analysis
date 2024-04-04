@@ -1,3 +1,6 @@
+The code was created and used for the following publication. If you use this code or modify this code and use it for any purposes, please cite:
+Gillani, R. L., Kironde, E. N., Whiteman, S., Zwang, T. J. & Bacskai, B. J. Instability of excitatory synapses in experimental autoimmune encephalomyelitis and the outcome for excitatory circuit inputs to individual cortical neurons. Brain, Behav., Immun. (2024) doi:10.1016/j.bbi.2024.03.039
+
 # Synapse_Analysis
 Matlab code for analysis of synapse data in Gillani et al manuscript (to be updated with citation once published).
 To run first create an excel spreadsheet with information in the following columns/format
